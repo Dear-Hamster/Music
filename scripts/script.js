@@ -9,7 +9,7 @@ new Vue({
       currentTime: null,
       isTimerPlaying: false,
       tracks: [
-        {
+       {
           name: "I Wanna Be Your Haster",
           artist: "Me & Cato",
           cover: "https://raw.githubusercontent.com/Dear-Hamster/Music/main/img/23.jpeg",
@@ -20,8 +20,8 @@ new Vue({
         {
           name: "I Wanna Be Yours",
           artist: "Artic Monkey",
-          cover: "https://raw.githubusercontent.com/Dear-Hamster/Music/main/img/wanna_yours.webp",
-          source: "https://raw.githubusercontent.com/Dear-Hamster/Music/main/mp3/I%20Wanna%20Be%20Yours_5XeFesFbtLpXzIVDNQP22n.mp3",
+          cover: "https://raw.githubusercontent.com/Dear-Hamster/Music/main//img/wanna_yours.webp",
+          source: "https://raw.githubusercontent.com/Dear-Hamster/Music/main/mp3/I Wanna Be Yours_5XeFesFbtLpXzIVDNQP22n.mp3",
           url: "https://youtu.be/nyuo9-OjNNg?list=RDnyuo9-OjNNg",
           favorited: true
         }
