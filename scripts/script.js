@@ -13,7 +13,7 @@ new Vue({
           name: "I Wanna Be Your Haster",
           artist: "Me & Cato",
           cover: "https://raw.githubusercontent.com/Dear-Hamster/Music/main/img/23.jpeg",
-          source: "https://raw.githubusercontent.com/Dear-Hamster/Music/main/mp3/I%20Wanna%20Be%20Yours_5XeFesFbtLpXzIVDNQP22n.mp3",
+          source: "https://raw.githubusercontent.com/Dear-Hamster/Music/refs/heads/main/mp3/I%20wanna%20be%20Your%20Hamster%20!!.mp3",
           url: false,
           favorited: false
         },
